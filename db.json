@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "title": "Post Two",
+      "body": "dd This is the post body",
+      "publishedAt": "10-01-2020"
+    },
+    {
+      "id": "3",
+      "title": "Post Three",
+      "body": "This is the post body",
+      "publishedAt": "10-01-2020"
+    },
+    {
+      "title": "Post Four",
+      "body": "This is the body for pxost 4",
+      "publishedAt": "2020-10-06",
+      "id": "DdCICG7"
+    },
+    {
+      "title": "Post four",
+      "body": "This is the post body",
+      "publishedAt": "2020-10-02",
+      "id": "RGHG5pX"
+    },
+    {
+      "title": "post 4",
+      "body": "dkndkd ndfo wewewe",
+      "publishedAt": "2020-10-08",
+      "id": "1eZAzpr"
+    },
+    {
+      "title": "john dsd",
+      "body": "sfdfsdfsdfdsfdsfs ffsd",
+      "publishedAt": "2020-10-02",
+      "id": "eMMFYVn"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "John Smithth",
+      "email": "john@example.com"
+    },
+    {
+      "name": "bczxczx",
+      "email": "sdas@gmail.com",
+      "id": "JemmgxD"
+    },
+    {
+      "name": "gfdg",
+      "email": "pjha@gmail.com",
+      "id": "c2Mkuy8"
+    }
+  ]
+}
